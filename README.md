@@ -10,7 +10,7 @@ This repository hosts this README.md file where I will continuously add links to
 
 - **Status:** Completed and Approved
 
-- **Type:** Collaborative
+- **Type:** Collaborative Project
 
 - **Collaborator:** <a href="https://github.com/jamestucker1988">Anand Kumar - GitHub username: jamestucker1988</a>
 
@@ -18,7 +18,7 @@ This repository hosts this README.md file where I will continuously add links to
 
 - **Status:** Completed and Approved
 
-- **Type:** Collaborative
+- **Type:** Collaborative Project
 
 - **Collaborator:** <a href="https://github.com/jamestucker1988">Anand Kumar - GitHub username: jamestucker1988</a>
 
