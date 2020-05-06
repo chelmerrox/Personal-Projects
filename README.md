@@ -22,6 +22,17 @@ This repository hosts this README.md file where I will continuously add links to
 
 - **Collaborator:** <a href="https://github.com/jamestucker1988">Anand Kumar - GitHub username: jamestucker1988</a>
 
+
+### <a href="https://github.com/chelmerrox/Project-3-Positioning-and-Floating-Elements">Project 3 - Positioning and Floating Elements</a>
+
+- **Status:** Completed and Approved
+
+- **Type:** Solo Project (Initially a Collaborative Project)
+
+  *Note: I didn't have a coding partner so, in fact, this turned out to be a solo project just for me*
+
+- **Collaborator:**   -
+
 ## Author
 
 Losalini Rokocakau. **GitHub username:** *chelmerrox*
