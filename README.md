@@ -6,7 +6,7 @@
 
 ## Links to the repositories and pull requests of projects and challenges that I'm working on or have completed
 
-   ### <a href="https://github.com/jamestucker1988/jamestucker1988microverse_embeded-image-project1-combo">Project 1 - Embedding Images and Video</a>
+   ### <a href="https://github.com/jamestucker1988/jamestucker1988microverse_embeded-image-project1-combo">Project 1 - Embedding Images and Video (Youtube webpage)</a>
 
    - **Status:** Completed and Approved
 
@@ -14,7 +14,7 @@
 
    - **Collaborator:** <a href="https://github.com/jamestucker1988">Anand Kumar - GitHub username: jamestucker1988</a>
 
-   ### <a href="https://github.com/jamestucker1988/form-project2-microverse-curriculum">Project 2 - HTML Forms</a>
+   ### <a href="https://github.com/jamestucker1988/form-project2-microverse-curriculum">Project 2 - HTML Forms (Mint's Sign-up webpage)</a>
 
    - **Status:** Completed and Approved
 
@@ -23,7 +23,7 @@
    - **Collaborator:** <a href="https://github.com/jamestucker1988">Anand Kumar - GitHub username: jamestucker1988</a>
 
 
-   ### <a href="https://github.com/chelmerrox/Project-3-Positioning-and-Floating-Elements">Project 3 - Positioning and Floating Elements</a>
+   ### <a href="https://github.com/chelmerrox/Project-3-Positioning-and-Floating-Elements">Project 3 - Positioning and Floating Elements (New York Times webpage)</a>
 
    - **Status:** Completed and Approved
 
