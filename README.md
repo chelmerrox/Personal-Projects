@@ -33,6 +33,13 @@
 
    - **Collaborator:**   -
 
+   ### <a href="https://github.com/chelmerrox/Project-4-Building-with-Backgrounds-and-Gradients">Project 4 - Building with Backgrounds and Gradients (Apple webpage)</a>
+
+   - **Status:** Completed and Approved
+
+   - **Type:** Solo Project
+
+
 ## Author
 
   Losalini Rokocakau. 
