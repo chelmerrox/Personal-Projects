@@ -39,6 +39,14 @@
 
    - **Type:** Solo Project
 
+   ### <a href="https://github.com/chelmerrox/Project-5-Design-Teardown">Project 5 - Design Teardown (Smashing Magazine webpage)</a>
+
+   - **Status:** Completed and Approved
+
+   - **Type:** Collaborative Project
+
+   - **Collaborator:** <a href="https://github.com/paulzay">Paul Ogolla - GitHub username: paulzay</a>
+
 
 ## Author
 
