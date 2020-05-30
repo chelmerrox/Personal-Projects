@@ -29,7 +29,7 @@
 
    - **Type:** Solo Project (Initially a Collaborative Project)
 
-  *Note: I didn't have a coding partner so, in fact, this turned out to be a solo project for me*
+     *Note: I didn't have a coding partner so, in fact, this turned out to be a solo project for me*
 
    - **Collaborator:**   -
 
