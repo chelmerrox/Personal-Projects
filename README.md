@@ -47,6 +47,13 @@
 
    - **Collaborator:** <a href="https://github.com/paulzay">Paul Ogolla - GitHub username: paulzay</a>
 
+   ### <a href="https://github.com/paulzay/The-next-web">Project 6 - Building with Responsive Design (The Next Web webpage)</a>
+
+   - **Status:** Completed and Approved
+
+   - **Type:** Collaborative Project
+
+   - **Collaborator:** <a href="https://github.com/paulzay">Paul Ogolla - GitHub username: paulzay</a>
 
 ## Author
 
