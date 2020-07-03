@@ -55,6 +55,12 @@
 
    - **Collaborator:** <a href="https://github.com/paulzay">Paul Ogolla - GitHub username: paulzay</a>
 
+   ### <a href="https://github.com/chelmerrox/Project-7-Using-Bootstrap/tree/master">Project 7 - Using Bootstrap (Newsweek webpage)</a>
+
+   - **Status:** Completed and Approved
+
+   - **Type:** Solo Project
+
 ## Author
 
   Losalini Rokocakau. 
