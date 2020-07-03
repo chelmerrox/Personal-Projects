@@ -68,3 +68,11 @@
   **GitHub username:** *<a href="https://github.com/chelmerrox">chelmerrox</a>*
 
   **LinkedIn:** *<a href="https://www.linkedin.com/in/losalini-rokocakau/">Losalini Rokocakau</a>*
+
+## Show your support
+
+  Give a ⭐️ if you like my projects!
+  
+## 📝 License
+
+  These projects are [MIT](LICENSE.txt) licensed.
