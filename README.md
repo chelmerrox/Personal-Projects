@@ -4,7 +4,7 @@
 
    This repository hosts this README.md file where I will continuously add links to all of the repos and pull requests of projects and challenges that I work on.
 
-## Links to the repositories and pull requests of projects that I'm working on or have completed
+## My Projects
 
    ### <a href="https://github.com/jamestucker1988/jamestucker1988microverse_embeded-image-project1-combo">Project 1 - Embedding Images and Video (Youtube webpage)</a>
 
