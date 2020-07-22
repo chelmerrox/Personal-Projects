@@ -61,6 +61,13 @@
 
    - **Type:** Solo Project
 
+   ### <a href="https://github.com/chelmerrox/Project-9-HTML-and-CSS-Capstone">Project 8 - HTML and CSS Capstone Project (Conference website (CC Global Summit 2015 website))</a>
+
+   - **Status:** Completed and Approved
+
+   - **Type:** Solo Project
+
+  
 ## Author
 
   Losalini Rokocakau. 
