@@ -2,7 +2,7 @@
 
 ## Description
 
-   This repository hosts this README.md file where I will continuously add links to all of the repos and pull requests of projects and challenges that I work on.
+   This repository hosts this README.md file where I will continuously add links to all repositories of projects that I've worked on.
 
 ## My Projects
 
@@ -66,6 +66,14 @@
    - **Status:** Completed and Approved
 
    - **Type:** Solo Project
+
+   ### <a href="https://github.com/chelmerrox/bubble-sort">Project 9 - Advanced Building Blocks - Bubble Sort</a>
+
+   - **Status:** Completed and Approved
+
+   - **Type:** Collaborative Project
+
+   - **Collaborator:** <a href="https://github.com/DcRonan">Daniel Ronan - GitHub username: DcRonan</a>
 
   
 ## Author
